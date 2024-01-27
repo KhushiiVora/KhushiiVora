@@ -1,4 +1,12 @@
-### Hi there 👋
+<div align="center">
+  <b>Hii there!🫱🏻‍🫲🏻</b>
+  <h1>I'm Khushi Vora</h1>
+  <p>Passionate Full Stack Web Developer 👩‍💻</p>
+</div>
+<section>
+  <h3>✨About Me:</h3>
+  <p>A dedicated web developer who finds joy in crafting robust solutions using the <b>MERN stack</b>. In love with the language of the web: JavaScript, where logic meets beauty. My journey involves constant learning and coding adventures. Let's build something amazing together! 💻✨</p>
+</section>
 
 <!--
 **KhushiiVora/KhushiiVora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
