@@ -4,8 +4,19 @@
   <p>Passionate Full Stack Web Developer 👩‍💻</p>
 </div>
 <section>
-  <h3>✨About Me:</h3>
+  <h2>✨About Me:</h2>
   <p>A dedicated web developer who finds joy in crafting robust solutions using the <b>MERN stack</b>. In love with the language of the web: JavaScript, where logic meets beauty. My journey involves constant learning and coding adventures. Let's build something amazing together! 💻✨</p>
+</section>
+<section>
+  <h2>Tech Stack</h2>
+  <p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react,redux,nodejs,express,mongodb,materialui,postman" />
+  </a>
+</p>
+</section>
+<section>
+  
 </section>
 
 <!--
