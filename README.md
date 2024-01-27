@@ -19,7 +19,6 @@
   <p>
 <!--     <img src="https://github-readme-stats.vercel.app/api?username=KhushiiVora&show_icons=true&theme=radical"/> -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhushiiVora&layout=pie"/>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=KhushiiVora"/>
   </p>
 </section>
 
