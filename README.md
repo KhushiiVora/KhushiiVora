@@ -62,6 +62,7 @@
        <br/>&emsp;<b>Backend:</b> ExpressJS, Mongoose
        <br/>&emsp;<b>Authentication and Validation:</b> Passport, JWT (jsonwebtoken), JOI
        </li>
+       <br/>
        <li><b>Blockchain Technology:</b>
        <br/>Web3, Solidity and IPFS storage
        </li><br/>
