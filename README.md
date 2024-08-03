@@ -27,6 +27,58 @@
   <img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
   <img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-F04D35.svg?style=for-the-badge&logo=Mongoose&logoColor=white"/>
 </section>
+<section>
+  <h2>Major Projects</h2>
+ <div>
+   <h3><a href="https://github.com/KhushiiVora/Taskify">Taskify</a></h3>
+   <p>
+     <ul>
+       <li><b>Libraries used:</b>
+       <br/>&emsp;<b>Frontend:</b> ReactJS, React Router, Redux Toolkit, Redux Persist, Material-UI (MUI)
+       <br/>&emsp;<b>Backend:</b> ExpressJS, Mongoose, Socket.IO
+       <br/>&emsp;<b>Authentication and Validation:</b> Passport, JWT (jsonwebtoken), JOI
+       </li>
+       <br/>
+       <li><b>Summary:</b>
+       <br/>Engineered a cutting-edge task management web application using the MERN stack with integrated real-time chat functionality, boosting team productivity by 40% in 3 months. Built from scratch in a team of two.
+       </li>
+       <br/>
+       <li><b>Features:</b>
+         <br/>✔️ Two user roles: Leader and Member
+         <br/>✔️ Task Management: Create or join workspaces with unique names and codes
+         <br/>✔️ Member Privileges: Task assignment and editing, profile control
+         <br/>✔️ Leader Privileges: Assign roles to members, Remove members, Control tasks, categories and workspaces
+         <br/>✔️ ChatBox: Real-time group chat for better communication
+       </li>
+     </ul>
+   </p>
+ </div>
+  <div>
+    <h3><a href="https://github.com/KhushiiVora/MiniProject">CertifyMe</a></h3>
+    <p>
+     <ul>
+       <li><b>Libraries used:</b>
+       <br/>&emsp;<b>Frontend:</b> ReactJS, React Router, Redux Toolkit, Redux Persist, Material-UI (MUI), EmailJS
+       <br/>&emsp;<b>Backend:</b> ExpressJS, Mongoose
+       <br/>&emsp;<b>Authentication and Validation:</b> Passport, JWT (jsonwebtoken), JOI
+       </li>
+       <li><b>Blockchain Technology:</b>
+       <br/>Web3, Solidity and IPFS storage
+       </li><br/>
+       <li><b>Summary:</b>
+       <br/>Developed a MERN stack and blockchain-based platform for generating and verifying certificates as NFTs in a team of three.
+       </li>
+       <br/>
+       <li><b>Features:</b>
+         <br/>✔️ Two user roles: Institute and Student
+         <br/>✔️ Certificate Generation: Generate customizable certificate templates and certificates based on a selected template
+         <br/>✔️ Certificate Verification: Verify certificates using unique certificate IDs, Download certificates as PDFs, View certificates in the browser
+         <br/>✔️ Decentralized Storage: Utilize IPFS for storing certificates
+       </li>
+     </ul>
+   </p>
+  </div>
+</section>
 <section align="center">
   <h2>🌐 Connectivity Hub✨</h2>
 <!--   <a href="https://twitter.com/KhushiiVora"><img alt="X" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/></a> -->
