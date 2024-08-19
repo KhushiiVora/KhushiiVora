@@ -40,7 +40,7 @@
        </li>
        <br/>
        <li><b>Summary:</b>
-       <br/>Engineered a cutting-edge task management web application using the MERN stack with integrated real-time chat functionality, boosting team productivity by 40% in 3 months. Built from scratch in a team of two.
+       <br/>Developed a real-time task management web app to boost team productivity, featuring integrated group chat, using the MERN stack in 4 months.
        </li>
        <br/>
        <li><b>Features:</b>
@@ -67,14 +67,15 @@
        <br/>Web3, Solidity and IPFS storage
        </li><br/>
        <li><b>Summary:</b>
-       <br/>Developed a MERN stack and blockchain-based platform for generating and verifying certificates as NFTs in a team of three.
+       <br/>Developed a reliable system for generating and verifying NFT certificates using the MERN stack and ethereum blockchain technology in 15 days, with decentralized storage via IPFS.
        </li>
        <br/>
        <li><b>Features:</b>
          <br/>✔️ Two user roles: Institute and Student
-         <br/>✔️ Certificate Generation: Generate customizable certificate templates and certificates based on a selected template
-         <br/>✔️ Certificate Verification: Verify certificates using unique certificate IDs, Download certificates as PDFs, View certificates in the browser
-         <br/>✔️ Decentralized Storage: Utilize IPFS for storing certificates
+         <br/>✔️ Certificate Management: Generate customizable certificate templates for institutes and issue certificates based on a selected template
+         <br/>✔️ Student Notifications: Email notifications sent to students upon certificate receipt
+         <br/>✔️ Certificate Access: Download certificates as PDFs, View certificates in the browser.
+         <br/>✔️ Public Verification: Verify certificates using unique IDs to prevent duplication and fraud.
        </li>
      </ul>
    </p>
