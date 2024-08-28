@@ -30,7 +30,7 @@
 <section>
   <h2>Major Projects</h2>
  <div>
-   <h3><a href="https://github.com/KhushiiVora/Taskify">Taskify</a></h3>
+   <h3><a href="https://taskifyteam.netlify.app/">Taskify</a> | <a href="https://github.com/KhushiiVora/Taskify">Repository</a></h3>
    <p>
      <ul>
        <li><b>Libraries used:</b>
