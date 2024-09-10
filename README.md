@@ -67,7 +67,7 @@
        <br/>Web3, Solidity and IPFS storage
        </li><br/>
        <li><b>Summary:</b>
-       <br/>Developed a reliable system for generating and verifying NFT certificates using the MERN stack and ethereum blockchain technology in 15 days, with decentralized storage via IPFS.
+       <br/>Developed a reliable system for generating and verifying certificates as NFTs using the MERN stack and ethereum blockchain technology in 15 days, with decentralized storage via IPFS.
        </li>
        <br/>
        <li><b>Features:</b>
