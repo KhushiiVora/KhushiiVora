@@ -54,7 +54,7 @@
    </p>
  </div>
   <div>
-    <h3><a href="https://github.com/KhushiiVora/MiniProject">CertifyMe</a></h3>
+    <h3><a href="https://github.com/navdiya-nikunj/CertifyMe">CertifyMe</a></h3>
     <p>
      <ul>
        <li><b>Libraries used:</b>
