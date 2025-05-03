@@ -54,6 +54,27 @@
    </p>
  </div>
   <div>
+   <h3><a href="https://devstogether.netlify.app/">DevsTogether</a> | <a href="https://github.com/KhushiiVora/DevsTogether">Repository</a></h3>
+   <p>
+       <ul>
+         <li><b>Libraries used:</b>                                                               
+            <br/>&emsp;<b>Frontend:</b> ReactJS, React Router, Redux Toolkit, Redux Persist, Material-UI (MUI), PeerJS
+            <br/>&emsp;<b>Backend:</b> ExpressJS, Mongoose, Socket.IO, peer
+            <br/>&emsp;<b>Authentication and Validation:</b> Passport, JWT, Google OAuth 2.0
+         </li>
+               <br/>
+               <li><b>Summary:</b>
+               <br/>DevsTogether is a real-time collaborative code editor built with the MERN stack, designed to streamline remote coding sessions, pair programming, and technical interviews by enabling seamless code sharing and interaction across users.
+               </li>
+              <br/>
+               <li><b>Features:</b>
+                <br/>✔️ Real-time Code Collaboration
+                <br/>✔️ Multiple programming Language Support
+                <br/>✔️ Integrated Code Execution
+                <br/>✔️ Live User Cursor Tracking
+                <br/>✔️ Video Streaming
+  </div>
+  <div>
     <h3><a href="https://github.com/navdiya-nikunj/CertifyMe">CertifyMe</a></h3>
     <p>
      <ul>
