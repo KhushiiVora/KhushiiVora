@@ -30,7 +30,7 @@
 <section>
   <h2>Major Projects</h2>
  <div>
-   <h3><a href="https://taskifyteam.netlify.app/">Taskify</a> | <a href="https://github.com/KhushiiVora/Taskify">Repository</a></h3>
+   <h3><a href="https://taskifyteam.netlify.app/">Taskify</a> | <a href="https://github.com/KhushiiVora/Taskify">Repository</a> | <a href="https://drive.google.com/file/d/11ZPP3igjV5Ph3R6D1AKP0H0MTSbvYrHS/view">Demo Video</a></h3>
    <p>
      <ul>
        <li><b>Libraries used:</b>
@@ -54,7 +54,7 @@
    </p>
  </div>
   <div>
-   <h3><a href="https://devstogether.netlify.app/">DevsTogether</a> | <a href="https://github.com/KhushiiVora/DevsTogether">Repository</a></h3>
+   <h3><a href="https://devstogether.netlify.app/">DevsTogether</a> | <a href="https://github.com/KhushiiVora/DevsTogether">Repository</a> | <a href="https://drive.google.com/file/d/15OOPLBtyencecFZYF5ImANrr6HJKqujz/view">Demo Video</a></h3>
    <p>
        <ul>
          <li><b>Libraries used:</b>                                                               
